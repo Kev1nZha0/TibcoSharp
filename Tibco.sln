@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tibco", "Tibco\Tibco.csproj", "{56F6C02F-79EE-45D2-AD16-123EF19003F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sender", "Sender\Sender.csproj", "{A3AC5EF3-5729-4C4E-87A7-5DF26BF161CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsTibco", "WindowsFormsTibco\WindowsFormsTibco.csproj", "{F83E5BBA-9D56-4B50-88CD-DE873C37B032}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56F6C02F-79EE-45D2-AD16-123EF19003F0}.Debug|x64.ActiveCfg = Debug|x64
+		{56F6C02F-79EE-45D2-AD16-123EF19003F0}.Debug|x64.Build.0 = Debug|x64
+		{56F6C02F-79EE-45D2-AD16-123EF19003F0}.Release|x64.ActiveCfg = Release|x64
+		{56F6C02F-79EE-45D2-AD16-123EF19003F0}.Release|x64.Build.0 = Release|x64
+		{A3AC5EF3-5729-4C4E-87A7-5DF26BF161CF}.Debug|x64.ActiveCfg = Debug|x64
+		{A3AC5EF3-5729-4C4E-87A7-5DF26BF161CF}.Debug|x64.Build.0 = Debug|x64
+		{A3AC5EF3-5729-4C4E-87A7-5DF26BF161CF}.Release|x64.ActiveCfg = Release|x64
+		{F83E5BBA-9D56-4B50-88CD-DE873C37B032}.Debug|x64.ActiveCfg = Debug|x64
+		{F83E5BBA-9D56-4B50-88CD-DE873C37B032}.Debug|x64.Build.0 = Debug|x64
+		{F83E5BBA-9D56-4B50-88CD-DE873C37B032}.Release|x64.ActiveCfg = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A6A191C-8B42-43CF-8531-E81C66E269F1}
+	EndGlobalSection
+EndGlobal
